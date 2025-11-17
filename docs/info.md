@@ -8,13 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
-Explain how your project works
+Compare values of one two bits number to the other.
 
 ## How to test
 
-Explain how to use your project
+Turn switch on or off to get the value you want for A,B
 
 ## External hardware
-
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 LEDs (RED,YELLOW,GREEN)
